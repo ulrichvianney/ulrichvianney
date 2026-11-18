@@ -1,12 +1,11 @@
 <div align="center">
 
-# Ulrich Vianney Kokwé Kono
-
-### Full-Stack Engineer · TypeScript / React · Python / Django
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:092E20&height=200&section=header&text=Ulrich%20Vianney%20Kokwé%20Kono&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20·%20React%20/%20TypeScript%20·%20Python%20/%20Django&descAlignY=55&descSize=18" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ulrichkokwe.dev-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ulrichkokwe.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-kokwé-kono-04b21320a)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vianneykokwe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ulrichvianney-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ulrichvianney)
 
 </div>
 
@@ -16,14 +15,17 @@
 
 ```ts
 class UlrichVianney {
-  role = "Full-Stack Engineer";
-  focus = ["React", "TypeScript", "Django/DRF", "Design Systems", "Monorepos"];
+  role     = "Full-Stack Engineer";
+  location = "Yaoundé, Cameroun";
+  focus    = ["React", "TypeScript", "Django/DRF", "Design Systems", "Monorepos"];
   building = "Back-office métiers temps réel pour un monorepo multi-app (web + mobile)";
+
   stack = {
     frontend: ["React 19", "TypeScript (strict)", "Vite", "Ant Design", "Zustand"],
     backend:  ["Django", "Django REST Framework", "Celery", "Redis", "PostgreSQL"],
     tooling:  ["Turborepo", "pnpm", "Playwright", "OpenTelemetry", "Sentry"],
   };
+
   principle = "Du typage de bout en bout, des services métier testables, zéro `any`.";
 
   currentMission(): string {
@@ -48,6 +50,7 @@ class UlrichVianney {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-593D88?style=flat-square&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -56,12 +59,21 @@ class UlrichVianney {
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulrichvianney&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichvianney&layout=compact&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulrichvianney&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichvianney&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=ulrichvianney&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+📍 Yaoundé, Cameroun
 
 </div>
