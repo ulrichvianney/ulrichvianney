@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:092E20&height=180&section=header&text=ULRICH%20KOKWE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%20logiciel%20%C2%B7%20Web%20%26%20Mobile&descAlignY=58&descSize=16" />
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-ulrichkokwe.dev-000000?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://ulrichkokwe.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulrich-kokw%C3%A9-kono-04b21320a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ulrichvianney)
